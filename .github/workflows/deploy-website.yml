@@ -1,0 +1,12 @@
+name: Trigger Vercel rebuild on author changes
+on:
+  push:
+    branches: [ main ]
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hit Vercel Deploy Hook
+        run: curl -X POST "$VERCEL_DEPLOY_HOOK_URL"
+        env:
+          VERCEL_DEPLOY_HOOK_URL: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
