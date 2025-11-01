@@ -2,7 +2,7 @@
     "name": "Sayed Hamid Fatimi",
     "email": "sayedhfatimi@pm.me",
     "bio": "I’m Sayed Hamid Fatimi, a software developer by craft, a philosopher by calling, and a lifelong student of truth. With roots in physics and a love for clean, expressive code, I build in JavaScript, TypeScript, React, and Next.js—tools that let ideas take shape in the digital world.\n\nBeyond the syntax and structure lies a deeper pursuit. I write to explore the foundations of thought, reason, and reality. My books, The Philosophy of Reason and The Philosophy of Truth, are part of an ongoing journey—an attempt to weave clarity from complexity, and meaning from mystery.\n\nThis space is where code meets contemplation. You’re welcome to walk the path with me at valeon.blog.",
-    "website": "https://sayedhfatimi.com/",
+    "website": "https://sayedhfatimi.com",
     "socials": {
         "twitter": "https://twitter.com/sayedhfatimi",
         "github": "https://github.com/sayedhfatimi",
@@ -538,6 +538,264 @@
             "reedsy": "https://reedsy.com/discovery/book/the-philosophy-of-illusions-beyond-the-throne-beneath-the-veil-sayed-hamid-fatimi",
             "goodreads": "https://www.goodreads.com/book/show/232548106-the-philosophy-of-illusions",
             "audioSample": "/assets/books/samples/the-philosophy-of-illusions/sample.mp3"
+        },
+        /* ───────────────────────────────────────── Added books ───────────────────────────────────────── */
+        {
+            "title": "Fluent in Obedience",
+            "subtitle": "The Dark Side of Financial Literacy",
+            "slogan": "What if mastering money doesn’t liberate you—but makes you easier to govern? What if the language of finance is less about empowerment, and more about obedience?",
+            "description": "<p>What if your mind was never truly private?</p><p>In <em>The Silent Chorus: Thought, Belief, and the Hidden Architecture of the Mind</em>, Sayed Hamid Fatimi explores a radical and resonant idea: that thought is not confined to the skull but reverberates through an invisible field we all inhabit. This is not a book of theories—it is a tuning fork. A lyrical and philosophical journey through the unseen currents of belief, emotion, and shared consciousness.</p><p>From the myths of individualism to the feedback loops of digital life, Fatimi unravels the structures that shape our thoughts before we ever speak them. He examines how belief becomes architecture, how silence becomes transmission, and how each mind—whether aware or not—contributes to the psychic atmosphere of the world.</p><p>Whether you’re a seeker, a skeptic, or simply curious about the spaces between people and thought, <em>The Silent Chorus</em> invites you to reconsider the boundaries of self, and to listen more closely to the mind beneath the mind.</p>",
+            "pubDate": "2025-04-08",
+            "isbn": "979-8282958492",
+            "cover": "./assets/books/fluent-in-obedience/cover.jpg",
+            "stores": {
+                "ebooks": [
+                    {
+                        "name": "Amazon Kindle",
+                        "url": "https://www.amazon.co.uk/dp/B0F7V148R8"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https://books.apple.com/us/book/id6745572339"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/book/858760127"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/books/details?id=m_NbEQAAQBAJ"
+                    },
+                    {
+                        "name": "Smashwords",
+                        "url": "https://www.smashwords.com/books/view/1765454"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/search?query=9798231125739"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/x/x?ean=2940181921061"
+                    },
+                    {
+                        "name": "Vivlio",
+                        "url": "https://shop.vivlio.com/search?search=9798231125739"
+                    },
+                    {
+                        "name": "Fable",
+                        "url": "https://fable.co/book/x-9798231125739"
+                    }
+                ],
+                "print": [
+                    {
+                        "name": "Amazon (Paperback)",
+                        "url": "https://www.amazon.co.uk/dp/B0F82VF43M"
+                    }
+                ],
+                "audiobooks": [
+                    {
+                        "name": "Spotify",
+                        "url": "https://open.spotify.com/show/6et6FTz2OkTFDUzALQ059e"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/us/en/audiobook/fluent-in-obedience"
+                    },
+                    {
+                        "name": "Audiobooks.com",
+                        "url": "https://www.audiobooks.co.uk/audiobook/915401"
+                    },
+                    {
+                        "name": "TuneIn",
+                        "url": "http://tun.in/pxKTj"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/audiobooks/details?id=AQAAAEBK1SuVcM"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/audiobook/859441090"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/fluent-in-obedience-sayed-hamid-fatimi/1147398000?ean=2940193294221"
+                    }
+                ]
+            },
+            "reedsy": "https://reedsy.com/discovery/book/fluent-in-obedience-the-dark-side-of-financial-literacy-sayed-hamid-fatimi",
+            "goodreads": "https://www.goodreads.com/book/show/233276281-fluent-in-obedience",
+            "audioSample": "/assets/books/samples/fluent-in-obedience/sample.mp3"
+        },
+        {
+            "title": "Meanderings on Ethics",
+            "subtitle": "The Canyon Between Ideals and Reality",
+            "slogan": "Where ethics confront power, and ideals dissolve in reality. A book for those brave enough to question the moral stage we perform upon.",
+            "description": "<p>In <em>Meanderings on Ethics: The Canyon Between Ideals and Reality</em>, Sayed Hamid Fatimi dissects the uneasy gap between what society claims to be and what it truly is. With clarity and conviction, he guides readers through the illusions of moral certainty and the systems that exploit them—unmasking the contradiction at the heart of legality, justice, and obedience.</p><p>From manmade moral codes to the weaponization of law, from the solitude of individual conscience to the demands of power, this work is a compelling journey through the ideological battlegrounds of our time. Each chapter is a lantern in the fog of modern ethics, lighting a path not toward easy answers, but toward honest reckoning.</p><p>This book is for thinkers, dissidents, reformers, and seekers. For anyone who suspects that justice isn’t found in slogans—but in struggle.</p>",
+            "pubDate": "2025-05-06",
+            "cover": "./assets/books/meanderings-on-ethics/cover.jpg",
+            "stores": {
+                "ebooks": [
+                    {
+                        "name": "Amazon Kindle",
+                        "url": "https://www.amazon.co.uk/dp/B0F7RNYZZS"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https://books.apple.com/us/book/id6745559698"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/book/858702811"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/books/details?id=qONbEQAAQBAJ"
+                    },
+                    {
+                        "name": "Smashwords",
+                        "url": "https://www.smashwords.com/books/view/1765011"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/search?query=9798231935994"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/x/x?ean=2940182049320"
+                    },
+                    {
+                        "name": "Vivlio",
+                        "url": "https://shop.vivlio.com/search?search=9798231935994"
+                    },
+                    {
+                        "name": "Fable",
+                        "url": "https://fable.co/book/x-9798231935994"
+                    }
+                ],
+                "audiobooks": [
+                    {
+                        "name": "Spotify",
+                        "url": "https://open.spotify.com/show/395iwHZ8pwr6tVHQXxibX1"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/us/en/audiobook/meanderings-on-ethics"
+                    },
+                    {
+                        "name": "Audiobooks.com",
+                        "url": "https://www.audiobooks.co.uk/audiobook/915402"
+                    },
+                    {
+                        "name": "TuneIn",
+                        "url": "http://tun.in/pxKQZ"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/audiobooks/details?id=AQAAAEBK5V6lBM"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/audiobook/859439604"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/meanderings-on-ethics-sayed-hamid-fatimi/1147395614?ean=2940192886083"
+                    }
+                ]
+            },
+            "reedsy": "https://reedsy.com/discovery/book/meanderings-on-ethics-the-canyon-between-ideals-and-reality-sayed-hamid-fatimi",
+            "goodreads": "https://www.goodreads.com/book/show/233213610-meanderings-on-ethics",
+            "audioSample": "/assets/books/samples/meanderings-on-ethics/sample.mp3"
+        },
+        {
+            "title": "The Silent Chorus",
+            "subtitle": "Thought, Belief, and the Hidden Architecture of the Mind",
+            "slogan": "In a world of voices, your thoughts are not echoes — they are transmissions. The Silent Chorus is a meditation on belief, presence, and the unseen field that binds every mind. Read it quietly. Let it retune you.",
+            "description": "<p>What if your mind was never truly private?</p><p>In <em>The Silent Chorus: Thought, Belief, and the Hidden Architecture of the Mind</em>, Sayed Hamid Fatimi explores a radical and resonant idea: that thought is not confined to the skull but reverberates through an invisible field we all inhabit. This is not a book of theories—it is a tuning fork. A lyrical and philosophical journey through the unseen currents of belief, emotion, and shared consciousness.</p><p>From the myths of individualism to the feedback loops of digital life, Fatimi unravels the structures that shape our thoughts before we ever speak them. He examines how belief becomes architecture, how silence becomes transmission, and how each mind—whether aware or not—contributes to the psychic atmosphere of the world.</p><p>Whether you’re a seeker, a skeptic, or simply curious about the spaces between people and thought, <em>The Silent Chorus</em> invites you to reconsider the boundaries of self, and to listen more closely to the mind beneath the mind.</p>",
+            "pubDate": "2025-04-09",
+            "isbn": "979-8283231945",
+            "cover": "./assets/books/the-silent-chorus/cover.jpg",
+            "stores": {
+                "ebooks": [
+                    {
+                        "name": "Amazon Kindle",
+                        "url": "https://www.amazon.co.uk/dp/B0F84DYHYW"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https://books.apple.com/us/book/id6745722020"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/book/859658196"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/books/details?id=B21cEQAAQBAJ"
+                    },
+                    {
+                        "name": "Smashwords",
+                        "url": "https://www.smashwords.com/books/view/1766969"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/search?query=9798231277520"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/x/x?ean=2940181925830"
+                    },
+                    {
+                        "name": "Vivlio",
+                        "url": "https://shop.vivlio.com/search?search=9798231277520"
+                    },
+                    {
+                        "name": "Fable",
+                        "url": "https://fable.co/book/x-9798231277520"
+                    }
+                ],
+                "print": [
+                    {
+                        "name": "Amazon (Paperback)",
+                        "url": "https://www.amazon.co.uk/dp/B0F884LD7W"
+                    }
+                ],
+                "audiobooks": [
+                    {
+                        "name": "Spotify",
+                        "url": "https://open.spotify.com/show/6FljHvTBhd8Iiujh4hw6Bt"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/us/en/audiobook/silent-chorus-the"
+                    },
+                    {
+                        "name": "Audiobooks.com",
+                        "url": "https://www.audiobooks.co.uk/audiobook/916511"
+                    },
+                    {
+                        "name": "TuneIn",
+                        "url": "http://tun.in/pxK4S"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/audiobooks/details?id=AQAAAEBKbTYtbM"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/audiobook/861048228"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/the-silent-chorus-sayed-hamid-fatimi/1147406352"
+                    }
+                ]
+            },
+            "reedsy": "https://reedsy.com/discovery/book/the-silent-chorus-thought-belief-and-the-hidden-architecture-of-the-mind-sayed-hamid-fatimi",
+            "goodreads": "https://www.goodreads.com/book/show/233520526-the-silent-chorus",
+            "audioSample": "/assets/books/samples/the-silent-chorus/sample.mp3"
         }
     ]
 }
