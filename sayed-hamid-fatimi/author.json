@@ -1,0 +1,543 @@
+{
+    "name": "Sayed Hamid Fatimi",
+    "email": "sayedhfatimi@pm.me",
+    "bio": "I’m Sayed Hamid Fatimi, a software developer by craft, a philosopher by calling, and a lifelong student of truth. With roots in physics and a love for clean, expressive code, I build in JavaScript, TypeScript, React, and Next.js—tools that let ideas take shape in the digital world.\n\nBeyond the syntax and structure lies a deeper pursuit. I write to explore the foundations of thought, reason, and reality. My books, The Philosophy of Reason and The Philosophy of Truth, are part of an ongoing journey—an attempt to weave clarity from complexity, and meaning from mystery.\n\nThis space is where code meets contemplation. You’re welcome to walk the path with me at valeon.blog.",
+    "website": "https://sayedhfatimi.com/",
+    "socials": {
+        "twitter": "https://twitter.com/sayedhfatimi",
+        "github": "https://github.com/sayedhfatimi",
+        "linkedin": "https://www.linkedin.com/in/sayedhfatimi/",
+        "bluesky": "https://bsky.app/profile/sayedhfatimi.com",
+        "instagram": "https://www.instagram.com/sayedhfatimi/"
+    },
+    "publications": [
+        {
+            "title": "The Philosophy of Reason",
+            "subtitle": "Toward a Holistic Understanding of Reality",
+            "slogan": "In a world of noise, reason is not silence — it is music. The Philosophy of Reason is a meditation on thought, feeling, and the art of living wisely. Read it slowly. Let it reshape you.",
+            "description": "<p>What does it mean to truly reason?<br>In an age of information overload and increasing complexity, The Philosophy of Reason offers a timeless and necessary invitation: to think more deeply, feel more fully, and live with integrated clarity.</p><p>Blending philosophy, emotional intelligence, intuition, and spiritual insight, this book explores the nature of reason as a living process—not a sterile tool of logic, but a practice of meaning, ethics, and presence. From the dance of reason and emotion to the silent wisdom of intuition, from spiritual integration to societal systems, it unfolds a rich, holistic framework for how we know—and how we can live more wisely.</p><p>Written with precision, humility, and depth, this book is not a call to win arguments. It is a call to live with coherence and care.</p><p>For readers who value insight over ideology and integration over dogma, this book offers a rare path forward—toward a way of thinking that is truly human.</p>",
+            "pubDate": "2025-04-05",
+            "isbn": "979-8316854851",
+            "cover": "./assets/books/the-philosophy-of-reason/cover.jpg",
+            "series": {
+                "name": "Whispers of Reason",
+                "part": 1
+            },
+            "stores": {
+                "ebooks": [
+                    {
+                        "name": "Amazon Kindle",
+                        "url": "https://www.amazon.co.uk/dp/B0F3X3X45Z"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https://books.apple.com/us/book/id6748395580"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/book/886355507"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/books/details?id=JUtVEQAAQBAJ"
+                    },
+                    {
+                        "name": "Smashwords",
+                        "url": "https://www.smashwords.com/books/view/1806745"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/search?query=9798231957934"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/x/x?ean=2940182090162"
+                    },
+                    {
+                        "name": "Vivlio",
+                        "url": "https://shop.vivlio.com/search?search=9798231957934"
+                    },
+                    {
+                        "name": "Fable",
+                        "url": "https://fable.co/book/x-9798231957934"
+                    }
+                ],
+                "print": [
+                    {
+                        "name": "Waterstones",
+                        "url": "https://www.waterstones.com/book/the-philosophy-of-reason/sayed-hamid-fatimi/9798316820160"
+                    },
+                    {
+                        "name": "Amazon (Paperback)",
+                        "url": "https://www.amazon.co.uk/dp/B0F42PJY56"
+                    },
+                    {
+                        "name": "Amazon (Hardcover)",
+                        "url": "https://www.amazon.co.uk/dp/B0F3YX5SSZ"
+                    }
+                ],
+                "audiobooks": [
+                    {
+                        "name": "Spotify",
+                        "url": "https://open.spotify.com/show/34mS7yFPGj0Vrs0ARXvflI"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/us/en/audiobook/philosophy-of-reason-the"
+                    },
+                    {
+                        "name": "Audiobooks.com",
+                        "url": "https://www.audiobooks.co.uk/audiobook/philosophy-of-reason-toward-a-holistic-understanding-of-reality/907240"
+                    },
+                    {
+                        "name": "TuneIn",
+                        "url": "http://tun.in/pxJcB"
+                    }
+                ]
+            },
+            "reedsy": "https://reedsy.com/discovery/book/the-philosophy-of-reason-toward-a-holistic-understanding-of-reality-sayed-hamid-fatimi",
+            "goodreads": "https://www.goodreads.com/book/show/231135263-the-philosophy-of-reason",
+            "audioSample": "/assets/books/samples/the-philosophy-of-reason/sample.mp3"
+        },
+        {
+            "title": "The Philosophy of Truth",
+            "subtitle": "Exploring the Tension Between Reality and Belief",
+            "slogan": "Truth doesn’t shout — it waits. In quiet questions, in fractured memories, in the gap between what we say and what we mean. The Philosophy of Truth is not a claim — it’s a companion. For those who seek not certainty, but sincerity.",
+            "description": "<p>What is truth in a world full of noise? And what does it mean to live by it?</p><p>In this timely and thought-provoking continuation of The Philosophy of Reason, Sayed Hamid Fatimi explores one of the most fundamental—and most fragile—questions of human existence: What is truth, and how do we live in alignment with it?</p><p>Blending classical philosophy with modern insight, The Philosophy of Truth guides readers through a wide-ranging journey—across epistemology, language, relationships, society, and the self. From Plato and Gettier to Orwell and Foucault, from social media performance to the secret lies we tell ourselves, Fatimi reveals that truth is not just something we know—it is something we practice.</p><p>Clear without oversimplifying, reflective without losing structure, this book challenges readers to reconsider their assumptions about certainty, perception, objectivity, and meaning. It invites those who are weary of curated realities and viral outrage to rediscover truth as a way of being—not a claim to possess, but a commitment to embody.</p><p>If The Philosophy of Reason asked how we think and why we believe, The Philosophy of Truth asks what lies behind those beliefs—and how to live honestly in a world full of illusion.</p><p>For readers of philosophy, psychology, and self-inquiry—this is not just a book to read, but one to return to.</p>",
+            "pubDate": "2025-04-09",
+            "isbn": "979-8317325121",
+            "cover": "./assets/books/the-philosophy-of-truth/cover.jpg",
+            "series": {
+                "name": "Whispers of Reason",
+                "part": 2
+            },
+            "stores": {
+                "ebooks": [
+                    {
+                        "name": "Amazon Kindle",
+                        "url": "https://www.amazon.co.uk/dp/B0F311WC9G"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https://books.apple.com/us/book/id6748387794"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/book/886354651"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/books/details?id=5b9VEQAAQBAJ"
+                    },
+                    {
+                        "name": "Smashwords",
+                        "url": "https://www.smashwords.com/books/view/1806755"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/search?query=9798231262465"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/x/x?ean=2940181861886"
+                    },
+                    {
+                        "name": "Vivlio",
+                        "url": "https://shop.vivlio.com/search?search=9798231262465"
+                    },
+                    {
+                        "name": "Fable",
+                        "url": "https://fable.co/book/x-9798231262465"
+                    }
+                ],
+                "print": [
+                    {
+                        "name": "Waterstones",
+                        "url": "https://www.waterstones.com/book/the-philosophy-of-truth/sayed-hamid-fatimi/9798317324674"
+                    },
+                    {
+                        "name": "Amazon (Paperback)",
+                        "url": "https://www.amazon.co.uk/dp/B0F4D2Q2W4"
+                    },
+                    {
+                        "name": "Amazon (Hardcover)",
+                        "url": "https://www.amazon.co.uk/dp/B0F4CXJ5WJ"
+                    }
+                ],
+                "audiobooks": [
+                    {
+                        "name": "Spotify",
+                        "url": "https://open.spotify.com/show/4u16H0B5cU8m4lQVK8zQ6Y"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/us/en/audiobook/philosophy-of-truth-the"
+                    },
+                    {
+                        "name": "Audiobooks.com",
+                        "url": "https://www.audiobooks.co.uk/audiobook/899626"
+                    },
+                    {
+                        "name": "TuneIn",
+                        "url": "http://tun.in/pxJmS"
+                    }
+                ]
+            },
+            "reedsy": "https://reedsy.com/discovery/book/the-philosophy-of-truth-exploring-the-tension-between-reality-and-belief-sayed-hamid-fatimi",
+            "goodreads": "https://www.goodreads.com/book/show/231213799-the-philosophy-of-truth",
+            "audioSample": "/assets/books/samples/the-philosophy-of-truth/sample.mp3"
+        },
+        {
+            "title": "The Philosophy of Meaning",
+            "subtitle": "Why Does Anything Matter?",
+            "slogan": "What do we do when life refuses to explain itself? The Philosophy of Meaning is a raw, honest meditation on why we search, what we find, and how to keep living when nothing promises that we should.",
+            "description": "<p>What if life never promised to matter—and we still chose to care anyway?</p><p>In this powerful conclusion to the Whispers of Reasons trilogy, Sayed Hamid Fatimi turns his attention from the mechanics of thought (The Philosophy of Reason) and the pursuit of truth (The Philosophy of Truth) to the deepest, most haunting question of all:</p><p>Why does any of it matter?</p><p>Blending philosophy, psychology, memoir, and poetic reflection, The Philosophy of Meaning explores what it means to live in a world where meaning isn’t guaranteed. From the silence of the absurd to the stories we tell ourselves, from the fragility of belief to the resilience of love, Fatimi invites readers into a raw, unfiltered conversation with the void—and shows how connection, creativity, and choice can be acts of rebellion in the face of nihilism.</p><p>Whether you’re a seeker, a skeptic, or someone who’s simply tired of pretending to have the answers, this book won’t offer certainty. But it will offer something better:</p><p>A reason to stay in the question.</p><p>A way to live meaningfully—even when nothing insists that you must.</p>",
+            "pubDate": "2025-04-20",
+            "isbn": "979-8280670679",
+            "cover": "./assets/books/the-philosophy-of-meaning/cover.jpg",
+            "series": {
+                "name": "Whispers of Reason",
+                "part": 3
+            },
+            "stores": {
+                "ebooks": [
+                    {
+                        "name": "Amazon Kindle",
+                        "url": "https://www.amazon.co.uk/dp/B0F5Q72JYN"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https://books.apple.com/us/book/id6470275983"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/book/900317642"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/books/details?id=IkxXEAAAQBAJ"
+                    },
+                    {
+                        "name": "Smashwords",
+                        "url": "https://www.smashwords.com/books/view/1820019"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/search?query=9798232240288"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/x/x?ean=2940193003342"
+                    },
+                    {
+                        "name": "Vivlio",
+                        "url": "https://shop.vivlio.com/search?search=9798232240288"
+                    },
+                    {
+                        "name": "Fable",
+                        "url": "https://fable.co/book/x-9798232240288"
+                    }
+                ],
+                "print": [
+                    {
+                        "name": "Waterstones",
+                        "url": "https://www.waterstones.com/book/the-philosophy-of-meaning/sayed-hamid-fatimi/9798280668805"
+                    },
+                    {
+                        "name": "Amazon (Paperback)",
+                        "url": "https://www.amazon.co.uk/dp/B0F5Q7BRXH"
+                    },
+                    {
+                        "name": "Amazon (Hardcover)",
+                        "url": "https://www.amazon.co.uk/dp/B0F5Q71M3T"
+                    }
+                ],
+                "audiobooks": [
+                    {
+                        "name": "Spotify",
+                        "url": "https://open.spotify.com/show/3WD0YvQ2bFJ9b8AFc9pHc6"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/us/en/audiobook/philosophy-of-meaning-the"
+                    },
+                    {
+                        "name": "Audiobooks.com",
+                        "url": "https://www.audiobooks.co.uk/audiobook/906957"
+                    },
+                    {
+                        "name": "TuneIn",
+                        "url": "http://tun.in/pxJPI"
+                    }
+                ]
+            },
+            "reedsy": "https://reedsy.com/discovery/book/the-philosophy-of-meaning-why-does-anything-matter-sayed-hamid-fatimi",
+            "goodreads": "https://www.goodreads.com/book/show/231673965-the-philosophy-of-meaning",
+            "audioSample": "/assets/books/samples/the-philosophy-of-meaning/sample.mp3"
+        },
+        {
+            "title": "The Philosophy of Markets",
+            "subtitle": "Money, Truth, and the Future of Finance",
+            "slogan": "The truth isn’t in the price — it’s in the flow. A deep dive into the hidden architecture of modern finance, liquidity, and the psychology that drives it all.",
+            "description": "<p>What if the market isn’t chaotic—it’s choreographed?</p><p><em>The Philosophy of Markets</em> is not a trading guide. It’s a deep dive into the hidden architecture behind price, behavior, and control. From liquidity traps and psychological cycles to crypto, Bitcoin, and the rise of decentralized finance, this book reveals how financial systems are built—not to reward truth, but to exploit belief.</p><p>You’ll learn why price is a reflection of emotion, not value. Why the market punishes predictability, not risk. And why the future of money won’t be written by banks or governments, but by code—open-source, transparent, and borderless.</p><p>This is a book for those who see Bitcoin as more than just an asset. For those who understand that DeFi, DAOs, and digital ownership are not trends—they are the beginning of a post-institutional era.</p><p>This is not about playing the game better.</p><p>It’s about building a new one.</p><p>Whether you’re a trader, builder, investor, or just a skeptic of the old system, this book offers a lens to understand the present—and design the future.</p><p>You’re not just participating in the market.</p><p>You are being positioned against.</p>",
+            "pubDate": "2025-04-14",
+            "isbn": "979-8319443380",
+            "cover": "./assets/books/the-philosophy-of-markets/cover.jpg",
+            "series": {
+                "name": "Beyond Kings and Thrones",
+                "part": 1
+            },
+            "stores": {
+                "ebooks": [
+                    {
+                        "name": "Amazon Kindle",
+                        "url": "https://www.amazon.co.uk/dp/B0F4NTPSDT"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https://books.apple.com/us/book/id6744650543"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/book/850221040"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/books/details?id=Br1VEQAAQBAJ"
+                    },
+                    {
+                        "name": "Smashwords",
+                        "url": "https://www.smashwords.com/books/view/1749040"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/search?query=9798230023630"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/x/x?ean=2940181080485"
+                    },
+                    {
+                        "name": "Vivlio",
+                        "url": "https://shop.vivlio.com/search?search=9798230023630"
+                    },
+                    {
+                        "name": "Fable",
+                        "url": "https://fable.co/book/x-9798230023630"
+                    }
+                ],
+                "print": [
+                    {
+                        "name": "Waterstones",
+                        "url": "https://www.waterstones.com/book/the-philosophy-of-markets/sayed-hamid-fatimi/9798317105396"
+                    },
+                    {
+                        "name": "Amazon (Paperback)",
+                        "url": "https://www.amazon.co.uk/dp/B0F4XCXWMJ"
+                    },
+                    {
+                        "name": "Amazon (Hardcover)",
+                        "url": "https://www.amazon.co.uk/dp/B0F4NTTMH7"
+                    }
+                ],
+                "audiobooks": [
+                    {
+                        "name": "Spotify",
+                        "url": "https://open.spotify.com/show/2c6r5xJMMlYhX6tOZ6H9dQ"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/us/en/audiobook/philosophy-of-markets-the"
+                    },
+                    {
+                        "name": "Audiobooks.com",
+                        "url": "https://www.audiobooks.co.uk/audiobook/898921"
+                    },
+                    {
+                        "name": "TuneIn",
+                        "url": "http://tun.in/pxJAD"
+                    }
+                ]
+            },
+            "reedsy": "https://reedsy.com/discovery/book/the-philosophy-of-markets-money-truth-and-the-future-of-finance-sayed-hamid-fatimi",
+            "goodreads": "https://www.goodreads.com/book/show/231412282-the-philosophy-of-markets",
+            "audioSample": "/assets/books/samples/the-philosophy-of-markets/sample.mp3"
+        },
+        {
+            "title": "The Philosophy of Power",
+            "subtitle": "The New Leviathan, Power Beyond Thrones and Borders",
+            "slogan": "Power hasn’t disappeared—it’s become ambient, systemic, and unseen. This is the evolution of authority, where control no longer looks like rule. Not who governs, but how systems shape us before we even choose.",
+            "description": "<p>The most dangerous kind of power is the kind that no longer needs to declare itself.</p><p>In an age where kings wear no crowns and governance hides in code, The Philosophy of Power: The New Leviathan, Power Beyond Thrones and Borders is a piercing meditation on the silent systems that shape our world. From the collapse of traditional institutions to the algorithmic monarchs of the digital age, Sayed Hamid Fatimi traces how control has evolved—not disappeared. This is not a book about politics. It is a book about the architecture behind politics. It is about the illusions we inherit, the myths we defend, and the futures we unknowingly consent to.</p><p>With poetic precision and philosophical depth, Fatimi reveals how modern power convinces before it coerces, seduces before it surveils, and governs not through force, but through familiarity. Chapters journey through decaying democracies, the commodification of dissent, the rise of soft tyranny, and the quiet suffocation of meaning in the age of speed and spectacle. This book is for those who feel something is off in the world—but can’t quite name it. It doesn’t offer false hope. It offers clarity—and that may be the most subversive tool of all.</p><p>If you’ve ever wondered why rebellion feels performative, why progress feels hollow, or why freedom feels like an interface—you’re not alone.</p><p>This book doesn’t promise revolution.</p><p>It promises that you’ll never see power the same way again.</p>",
+            "pubDate": "2025-04-23",
+            "isbn": "979-8280948846",
+            "cover": "./assets/books/the-philosophy-of-power/cover.jpg",
+            "series": {
+                "name": "Beyond Kings and Thrones",
+                "part": 2
+            },
+            "stores": {
+                "ebooks": [
+                    {
+                        "name": "Amazon Kindle",
+                        "url": "https://www.amazon.co.uk/dp/B0F63N8BP9"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https://books.apple.com/us/book/id6749183528"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/book/902380040"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/books/details?id=um2UEQAAQBAJ"
+                    },
+                    {
+                        "name": "Smashwords",
+                        "url": "https://www.smashwords.com/books/view/1820016"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/search?query=9798232527532"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/x/x?ean=2940193164371"
+                    },
+                    {
+                        "name": "Vivlio",
+                        "url": "https://shop.vivlio.com/search?search=9798232527532"
+                    },
+                    {
+                        "name": "Fable",
+                        "url": "https://fable.co/book/x-9798232527532"
+                    }
+                ],
+                "print": [
+                    {
+                        "name": "Waterstones",
+                        "url": "https://www.waterstones.com/book/the-philosophy-of-power/sayed-hamid-fatimi/9798317554927"
+                    },
+                    {
+                        "name": "Amazon (Paperback)",
+                        "url": "https://www.amazon.co.uk/dp/B0F63Q343R"
+                    },
+                    {
+                        "name": "Amazon (Hardcover)",
+                        "url": "https://www.amazon.co.uk/dp/B0F63Q317K"
+                    }
+                ],
+                "audiobooks": [
+                    {
+                        "name": "Spotify",
+                        "url": "https://open.spotify.com/show/3Q3xN2sUP8qkNe6qQ48mQq"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/us/en/audiobook/philosophy-of-power-the"
+                    },
+                    {
+                        "name": "Audiobooks.com",
+                        "url": "https://www.audiobooks.co.uk/audiobook/906954"
+                    },
+                    {
+                        "name": "TuneIn",
+                        "url": "http://tun.in/pxJQF"
+                    }
+                ]
+            },
+            "reedsy": "https://reedsy.com/discovery/book/the-philosophy-of-power-the-new-leviathan-power-beyond-thrones-and-borders-sayed-hamid-fatimi",
+            "goodreads": "https://www.goodreads.com/book/show/231770896-the-philosophy-of-power",
+            "audioSample": "/assets/books/samples/the-philosophy-of-power/sample.mp3"
+        },
+        {
+            "title": "The Philosophy of Illusions",
+            "subtitle": "Beyond the Throne, Beneath the Veil",
+            "slogan": "Unmask the illusions that shape your reality, your freedom, and your self. Step beyond the throne, beneath the veil—and awaken to the truth you were never taught to see.",
+            "description": "<p>What if your identity, your freedom, and even your deepest beliefs are not what they seem?</p><p>In <em>The Philosophy of Illusion: Beyond the Throne, Beneath the Veil</em>, Sayed Hamid Fatimi takes readers on a profound exploration beyond the visible structures of power, diving deep into the illusions woven into the fabric of human consciousness. This third volume of the acclaimed Beyond Kings and Thrones series challenges everything we assume about reality, meaning, and selfhood.</p><p>From the myths of identity and freedom to the constructed narratives of truth, justice, and progress, Fatimi methodically unveils the silent performances we mistake for life itself. Yet, this is not a work of despair. With lyrical precision and philosophical depth, he invites readers into the unsettling, liberating space that lies beyond illusions—a space where real freedom and authentic living begin.</p><p>If you are drawn to philosophy, sociology, political theory, spirituality, or the search for truth beyond appearances, this book will resonate deeply. Thought-provoking, elegantly written, and unflinchingly honest, <em>The Philosophy of Illusion</em> is both a reckoning and a renewal for those ready to live without masks.</p><p>Step beyond the throne, beneath the veil—and discover what was waiting all along.</p>",
+            "pubDate": "2025-05-01",
+            "isbn": "979-8281852876",
+            "cover": "./assets/books/the-philosophy-of-illusions/cover.jpg",
+            "series": {
+                "name": "Beyond Kings and Thrones",
+                "part": 3
+            },
+            "stores": {
+                "ebooks": [
+                    {
+                        "name": "Amazon Kindle",
+                        "url": "https://www.amazon.co.uk/dp/B0F6V4SV4H"
+                    },
+                    {
+                        "name": "Apple Books",
+                        "url": "https://books.apple.com/us/book/id6745386892"
+                    },
+                    {
+                        "name": "Everand",
+                        "url": "https://www.everand.com/book/856369571"
+                    },
+                    {
+                        "name": "Google Play Books",
+                        "url": "https://play.google.com/store/books/details?id=U7xaEQAAQBAJ"
+                    },
+                    {
+                        "name": "Smashwords",
+                        "url": "https://www.smashwords.com/books/view/1761508"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/search?query=9798230616047"
+                    },
+                    {
+                        "name": "Barnes & Noble",
+                        "url": "https://www.barnesandnoble.com/w/x/x?ean=2940181255357"
+                    },
+                    {
+                        "name": "Vivlio",
+                        "url": "https://shop.vivlio.com/search?search=9798230616047"
+                    },
+                    {
+                        "name": "Fable",
+                        "url": "https://fable.co/book/x-9798230616047"
+                    }
+                ],
+                "print": [
+                    {
+                        "name": "Waterstones",
+                        "url": "https://www.waterstones.com/book/the-philosophy-of-illusions/sayed-hamid-fatimi/9798281849319"
+                    },
+                    {
+                        "name": "Amazon (Paperback)",
+                        "url": "https://www.amazon.co.uk/dp/B0F79BN77P"
+                    },
+                    {
+                        "name": "Amazon (Hardcover)",
+                        "url": "https://www.amazon.co.uk/dp/B0F793NCZF"
+                    }
+                ],
+                "audiobooks": [
+                    {
+                        "name": "Spotify",
+                        "url": "https://open.spotify.com/show/5lGR9vgiG8jQE9XrQSEeM8"
+                    },
+                    {
+                        "name": "Kobo",
+                        "url": "https://www.kobo.com/us/en/audiobook/philosophy-of-illusions-the"
+                    },
+                    {
+                        "name": "Audiobooks.com",
+                        "url": "https://www.audiobooks.co.uk/audiobook/914862"
+                    },
+                    {
+                        "name": "TuneIn",
+                        "url": "http://tun.in/pxKIN"
+                    }
+                ]
+            },
+            "reedsy": "https://reedsy.com/discovery/book/the-philosophy-of-illusions-beyond-the-throne-beneath-the-veil-sayed-hamid-fatimi",
+            "goodreads": "https://www.goodreads.com/book/show/232548106-the-philosophy-of-illusions",
+            "audioSample": "/assets/books/samples/the-philosophy-of-illusions/sample.mp3"
+        }
+    ]
+}
